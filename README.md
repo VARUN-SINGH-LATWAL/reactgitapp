@@ -1,4 +1,4 @@
 # reactgitapp
 this is git app. 
 <br>
-author === varun
+author - Varun singh latwal
